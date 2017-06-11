@@ -1,0 +1,35 @@
+Instructions
+
+The goal of this assignment is to demonstrate your ability to write effective task and walkthrough scenario descriptions.
+
+You will create a description for a single task, and for a walkthrough scenario for implementing that task. Successful submissions will show the level of detail needed to meet each step in the rubric you've already and completed.
+
+After you've completed your own task and walkthrough scenario, you must grade at least three other students' submissions, evaluating them according to the rubric and giving constructive feedback. When you have completed this assignment and the peer review, you'll be ready to start using task and walkthrough scenario descriptions as part of documenting user research and as part of documenting and evaluating interface designs.
+Step-By-Step Assignment Instructionsless 
+Assignment Topic:
+
+To make this assignment as easy as possible for you to complete and grade, we're going to use a task and system you're already familiar with: Coursera.
+
+What you will submit:
+
+A task-description for a complete task that a learner might wish to accomplish in some form of educational system including, but not limited to Coursera or other MOOCs. The task description should reflect something more complex than a single step, and as would be true with any task description, it cannot be tied to the specific interface.
+A walkthrough scenario for the task you've described as it would be carried out on some Coursera platform (can be web, mobile, etc.). Identify the platform, and provide a sequenced list of steps to carry out the task.
+Note that the fact that you need a walkthrough scenario for Coursera does limit the range of tasks you can select. While a task that cannot be accomplished for a Coursera course might otherwise be perfectly appropriate, it should not be submitted for this assignment.
+Grading Criteria Overviewless 
+Your assignment will be graded based on conformity to the specific rubric criteria for tasks and scenarios that you have already seen in your practice exercises. These include:
+
+For the task:
+
+That it is something people would conceivably want to achieve in a MOOC or similar learning environment.
+That it is written in a way that an online learner could be asked to do it, and would likely know how to proceed in the MOOC or similar environment of their choice (or would understand that they couldn't succeed, if that task was not achievable).
+That it is specific and concrete.
+That it identifies who is completing the task.
+That it describes a complete job and not just a step that would not be performed in isolation.
+That it does not include any specific implementation -- it must be about what, not about how.
+That the task is reasonably central and important for the design of a MOOC or similar learning environment.
+For the scenario:
+
+That it specifies steps to complete that task submitted in a Coursera interface
+That it is written in terms that a user of Coursera learner would understand and be able to carry out
+That it is solely about how and not what
+That it is a correct and reasonable action sequence, as well as an evaluator can tell
