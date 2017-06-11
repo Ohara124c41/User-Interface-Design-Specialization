@@ -1,0 +1,232 @@
+Coursera
+
+
+Search catalog
+
+For Enterprise
+
+Christopher
+
+
+Prev
+Next
+
+Design Process Intro and Three Cases
+
+
+UI Design Processes I -- Common Elements and Usability Engineering
+
+
+UI Design Processes II -- Design-Centered Approaches
+
+
+Wrap-Up
+
+
+Assessment
+
+Assignment Video: Tasks and Scenarios
+11 min
+Sample Task and Scenario #1
+10 min
+Quiz:
+Task/Scenario Evaluation #1
+11 questions
+Sample Task and Scenario #2
+10 min
+Quiz:
+Task/Scenario Evaluation #2
+11 questions
+Sample Task and Scenario #3
+10 min
+Quiz:
+Task/Scenario Evaluation #3
+11 questions
+Peer-graded Assignment:
+Task and Walkthrough Scenario Assignment
+Grading in progress
+Review Your Peers:
+Task and Walkthrough Scenario Assignment
+
+Assessment: Module Quiz
+
+Peer-graded Assignment: Task and Walkthrough Scenario Assignment
+i
+ 
+It looks like this is your first peer-graded assignment.  Learn more
+
+A student applying for financial aid through Coursera.
+Submitted on June 10, 2017
+Shareable Link
+PROMPT
+Please enter a task-description for a complete task that a learner might wish to accomplish in some form of educational system including, but not limited to Coursera or other MOOCs. The task description should reflect something more complex than a single step, and as would be true with any task description, it cannot be tied to the specific interface.
+
+Remember a task description includes who as well as what, but not how.
+Task:
+
+Jim has recently taken interest in online learning through Coursera classes, to advance his education and quality of living. However, Jim is a low income individual and is concerned with being able to afford the cost of the classes. Therefore, like other students around the world, Jim is interested in acquiring financial aid to alleviate the burden of this supplemental education.
+
+Jim's task is to locate the appropriate financial aid page, so that he can attempt to receive financial assistance to meet his life goals.
+RUBRIC
+Does the response contain a task-description for a task that would make sense when considering what a learner might want or need to do in a MOOC or similar course?
+	
+100 points
+Yes
+	
+0 points
+No
+To what extent is the task described clearly in a way that a user of an online learning system could be given it as instructions and be expected to successfully complete it (or figure out that the system didn't support it)?
+	
+100 points
+Completely!
+	
+80 points
+Mostly. The task has some areas that are less clear or understandable, but most learners could figure it out.
+	
+60 points
+Not very well. It would be hard for a learner to understand what is being asked of him or her.
+	
+0 points
+No description provided or there isn't something a learner could try to follow.
+Is the task specific and concrete?
+	
+100 points
+Yes, well done!
+	
+80 points
+Mostly. A few minor issues, but generally concrete.
+	
+60 points
+There are parts that are too vague to really interpret, though other parts seem concrete.
+	
+0 points
+No description provided or this is too abstract and unclear to be at all useful.
+Does the task include a clear statement of who is doing it?
+	
+100 points
+Yes, who is clear. Note that this only needs to be enough background to assess if someone is a good fit.
+	
+60 points
+Who isn't clear in the text, though someone with clear knowledge of Coursera could probably figure it out.
+	
+0 points
+Who isn't specified at all.
+Is the task described a complete job, not just a step that would not be performed in isolation.
+	
+100 points
+Yes, the task makes sense as a reasonably complete thing someone might want to do.
+	
+60 points
+The task is more of a sub-task that would never be done alone.
+	
+0 points
+No meaningful task description submitted.
+The task is reasonably central and important for the design of a MOOC or similar learning environment interface.
+	
+100 points
+Yes, this is a core, important step such that designing it poorly would hurt user experience substantially.
+	
+80 points
+Mostly. This doesn't seem like a core task, but it certainly valuable.
+	
+60 points
+Not really. This is a task related to a MOOC, but it isn't something important.
+	
+0 points
+No meaningful task description submitted.
+Does the task include any interface-dependent "implementation" items? That is, does it tell "how" to accomplish it rather than just "what" is to be accomplished.
+	
+100 points
+No, there's nothing interface-dependent. It is a pure task.
+	
+80 points
+There are minor "how" elements, but it is mostly about "what."
+	
+60 points
+The task is rather specific about "how" -- it would too much constrain or guide a user in the right way to accomplish it.
+	
+0 points
+No meaningful task submitted.
+PROMPT
+Please put the following below:
+
+A copy of your task description from the first question (for the convenience of the evaluator);
+Your scenario, as a sequence of steps.
+Task:
+
+Jim has recently taken interest in online learning through Coursera classes, to advance his education and quality of living. However, Jim is a low income individual and is concerned with being able to afford the cost of the classes. Therefore, like other students around the world, Jim is interested in acquiring financial aid to alleviate the burden of this supplemental education.
+
+Jim's task is to locate the appropriate financial aid page, so that he can attempt to receive financial assistance to meet his life goals.
+
+Scenario:
+
+1) Go to a web browser and type in www.coursera.org 
+2) Use the search box to type in the particular course or specialty of interest. Courses can also be found by clicking the "Catalog" link at the top of the page and browsing through each section.
+3) Once a course is found, click the course to arrive at the landing page.
+4) On the left side of the screen, under the "Try for Free" image, click the "Learn more and apply" link related to financial aid.
+5) Once prompted, click the "Continue to the application" link. 
+6) Fill out the questionnaire and wait for a response. 
+7) Complete again for each course as necessary. Good luck!
+RUBRIC
+Does the scenario identify a set of action steps that match the task?
+	
+100 points
+Yes.
+	
+80 points
+Not quite, but somewhat.
+	
+60 points
+There are steps, but they don't seem to match the task.
+	
+0 points
+No meaningful scenario submitted.
+Are the steps written in terms that a typical user (e.g., a Coursera learner) would understand and be able to carry out?
+	
+100 points
+Yes.
+	
+80 points
+Not quite, but somewhat.
+	
+60 points
+No, they are not in terms that a user would understand.
+	
+0 points
+No meaningful scenario submitted.
+Does the scenario include information about "what" is being done, or just steps that indicate "how" to achieve it?
+	
+100 points
+Just "how" steps.
+	
+80 points
+Some "what" mixed in.
+	
+60 points
+As much "what" as "how," or maybe more.
+	
+0 points
+No meaningful scenario submitted.
+As far as you can tell, is the action sequence reasonably correct?
+	
+100 points
+Yes.
+	
+80 points
+Mostly.
+	
+60 points
+I don't think so.
+	
+0 points
+No meaningful scenario submitted.
+OVERALL ASSIGNMENT RUBRIC
+Please provide qualitative (text) feedback here. What did the learner do best? What areas should the learner work on? Was there anything that particularly impressed you about this task/scenario? Please try to keep the comments mostly positive (though supportive help is important when the submission has weaknesses).
+Comments
+Comments left for the learner are visible only to that learner and the person who left the comment.
+
+
+
+share your thoughts...
+
+
